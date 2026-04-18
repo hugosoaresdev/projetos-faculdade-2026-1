@@ -3,7 +3,7 @@ Repositório dedicado ao registro trabalhos desenvolvidos na faculdade, durante 
 
 ## 📚 Disciplinas:
 
-- Programação Orientada a Objetos (Java)
+- Orientação a Objetos (Java)
 - Algoritmos e Estrutura de Dados III (C/C++)
 
 ## 📁 Organização:
