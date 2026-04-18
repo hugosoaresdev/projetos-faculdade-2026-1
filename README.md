@@ -1,20 +1,15 @@
 # projetos-faculdade-2026-1
-Repositório dedicado ao registro dos projetos desenvolvidos na faculdade, durante o 1º período de 2026.
+Repositório dedicado ao registro trabalhos desenvolvidos na faculdade, durante o 1º período de 2026
 
-# Projetos da Faculdade - 2026/1
-
-Repositório com projetos e trabalhos desenvolvidos durante o 1º período de 2026.
-
-## 📚 Disciplinas
+## 📚 Disciplinas:
 
 - Programação Orientada a Objetos (Java)
-- Algoritmos (C/C++)
-- Estrutura de Dados III (C/C++)
+- Algoritmos e Estrutura de Dados III (C/C++)
 
-## 📁 Organização
+## 📁 Organização:
 
-Cada pasta representa uma disciplina, contendo seus respectivos trabalhos e exercícios.
+Cada pasta representa uma disciplina, contendo seus respectivos trabalhos
 
-## 🚀 Objetivo
+## 🎯  Objetivo:
 
-Organizar e documentar minha evolução prática em programação ao longo do semestre.
+Organizar e documentar minha evolução ao longo do semestre.
